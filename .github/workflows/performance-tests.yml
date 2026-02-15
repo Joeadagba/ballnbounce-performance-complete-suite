@@ -28,26 +28,17 @@ jobs:
           tar -xzf apache-jmeter-5.6.3.tgz
           echo "${{ github.workspace }}/apache-jmeter-5.6.3/bin" >> $GITHUB_PATH
 
-      - name: Run quick test
+      - name: Debug - Find JMX files
         run: |
-          jmeter -n -t "1. Customer Tests/50_Users_Baseline/Phase1_50_Users.jmx" \
-                 -Jthreads=10 \
-                 -Jduration=30 \
-                 -l smoke_results.jtl
+          echo "=== Current directory ==="
+          pwd
+          echo "=== List root directory ==="
+          ls -la
+          echo "=== Search for all JMX files ==="
+          find . -name "*.jmx" -type f
 
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
           name: smoke-test-results
           path: smoke_results.jtl
-      - name: Debug - List files
-        run: |
-          pwd
-          echo "=== All directories ==="
-          ls -la
-          echo "=== Looking for Customer Tests ==="
-          ls -la "1. Customer Tests/" || echo "Folder not found"
-          echo "=== Looking for 50_Users_Baseline ==="
-          ls -la "1. Customer Tests/50_Users_Baseline/" || echo "Subfolder not found"
-          echo "=== Looking for .jmx files ==="
-          find . -name "*.jmx" | head -20
