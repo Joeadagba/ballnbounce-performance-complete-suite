@@ -35,7 +35,7 @@ jobs:
                  -l smoke_results.jtl
       
       - name: Upload results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: smoke-test-results
           path: smoke_results.jtl
