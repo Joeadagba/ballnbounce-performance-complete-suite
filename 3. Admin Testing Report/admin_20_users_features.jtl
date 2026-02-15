@@ -1,0 +1,561 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1770898700925,313,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,140,1,1,https://booking.ballnbounce.com/employee-login,313,0,211
+1770898701239,744,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-1,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,744,0,287
+1770898704985,114,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-1,text,true,,2186,2278,1,1,https://booking.ballnbounce.com/dashboard,114,0,0
+1770898706920,284,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-2,text,true,,2187,140,2,2,https://booking.ballnbounce.com/employee-login,284,0,178
+1770898707205,743,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-2,text,true,,3138,768,2,2,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,727,0,282
+1770898708109,110,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,2301,2,2,https://booking.ballnbounce.com/dashboard/memberships-management,109,0,0
+1770898710949,107,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-2,text,true,,2188,2278,2,2,https://booking.ballnbounce.com/dashboard,107,0,0
+1770898711225,106,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,2292,2,2,https://booking.ballnbounce.com/dashboard/sales-reports,105,0,0
+1770898712920,349,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-3,text,true,,2188,140,3,3,https://booking.ballnbounce.com/employee-login,349,0,174
+1770898713272,782,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-3,text,true,,3137,768,3,3,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,782,0,323
+1770898714058,110,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-2,text,true,,2188,2301,3,3,https://booking.ballnbounce.com/dashboard/memberships-management,110,0,0
+1770898714335,106,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,106,0,0
+1770898717056,101,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-3,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,101,0,0
+1770898717170,96,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-2,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,96,0,0
+1770898717445,98,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,98,0,0
+1770898718933,301,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,301,0,198
+1770898719235,701,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-4,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,701,0,277
+1770898720164,101,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-3,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,101,0,0
+1770898720279,92,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-2,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,92,0,0
+1770898720551,91,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-1,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,91,0,0
+1770898722938,101,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770898723266,103,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-3,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,103,0,0
+1770898723372,90,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-2,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,90,0,0
+1770898724930,262,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,262,0,172
+1770898725193,764,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-5,text,true,,3138,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,763,0,301
+1770898726040,94,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,94,0,0
+1770898726383,111,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-3,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,111,0,0
+1770898726464,96,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-2,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,96,0,0
+1770898728961,90,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,90,0,0
+1770898729140,96,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,96,0,0
+1770898729495,105,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-3,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,105,0,0
+1770898730921,284,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-6,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,284,0,188
+1770898731206,765,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-6,text,true,,3138,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,764,0,290
+1770898732053,100,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,100,0,0
+1770898732248,107,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-4,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,107,0,0
+1770898732602,105,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-3,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,105,0,0
+1770898734985,91,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-6,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,91,0,0
+1770898735166,106,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,106,0,0
+1770898735360,105,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,105,0,0
+1770898736921,358,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-7,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,358,0,242
+1770898737282,787,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-7,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,786,0,337
+1770898738078,114,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-6,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,114,0,0
+1770898738275,109,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-5,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,108,0,0
+1770898738469,114,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-4,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,114,0,0
+1770898741071,119,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-7,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,119,0,0
+1770898741201,128,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-6,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,128,0,0
+1770898741393,111,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-5,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,111,0,0
+1770898742933,287,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,287,0,183
+1770898743222,702,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-8,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,701,0,278
+1770898744192,126,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-7,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,126,0,0
+1770898744337,116,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-6,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,116,0,0
+1770898744506,109,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,109,0,0
+1770898746939,96,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,96,0,0
+1770898747319,100,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-7,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,100,0,0
+1770898747466,108,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-6,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,108,0,0
+1770898748928,256,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-9,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,256,0,165
+1770898749185,734,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-9,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,734,0,276
+1770898750038,113,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,113,0,0
+1770898750430,104,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-7,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,104,0,0
+1770898750577,107,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-6,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,107,0,0
+1770898752921,104,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-9,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,104,0,0
+1770898753152,155,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,154,0,0
+1770898753535,114,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-7,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,114,0,0
+1770898754927,283,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,282,0,183
+1770898755210,767,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-10,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,767,0,272
+1770898756028,105,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-9,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,105,0,0
+1770898756308,128,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,128,0,0
+1770898756651,100,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-7,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,100,0,0
+1770898758985,154,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,154,0,0
+1770898759149,100,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-9,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,100,0,0
+1770898759443,99,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,98,0,0
+1770898760921,262,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-11,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,262,0,175
+1770898761184,717,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-11,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,717,0,273
+1770898762141,107,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,107,0,0
+1770898762255,118,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-9,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,118,0,0
+1770898762553,101,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,101,0,0
+1770898764904,100,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-11,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770898765251,111,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-10,text,true,,2186,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,111,0,0
+1770898765381,105,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-9,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,105,0,0
+1770898766921,284,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-12,text,true,,2187,140,4,4,https://booking.ballnbounce.com/employee-login,284,0,184
+1770898767206,741,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-12,text,true,,3135,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,741,0,280
+1770898768006,108,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-11,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,108,0,0
+1770898768369,105,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,105,0,0
+1770898768488,129,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-9,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,128,0,0
+1770898770954,174,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,174,0,0
+1770898771119,102,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-11,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,102,0,0
+1770898771476,111,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,110,0,0
+1770898772920,285,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,285,0,184
+1770898773206,758,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-13,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,757,0,335
+1770898774130,104,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,104,0,0
+1770898774229,100,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-11,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,100,0,0
+1770898774593,100,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,100,0,0
+1770898776968,102,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-13,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,102,0,0
+1770898777236,143,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,143,0,0
+1770898777334,115,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-11,text,true,,2186,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,115,0,0
+1770898778922,282,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-14,text,true,,2186,140,4,4,https://booking.ballnbounce.com/employee-login,282,0,185
+1770898779206,717,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-14,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,716,0,279
+1770898780071,93,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,93,0,0
+1770898780383,107,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,107,0,0
+1770898780464,111,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-11,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,111,0,0
+1770898782926,109,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,109,0,0
+1770898783175,116,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,116,0,0
+1770898783492,92,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,92,0,0
+1770898784927,292,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,292,0,196
+1770898785219,739,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-15,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,738,0,289
+1770898786038,105,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,105,0,0
+1770898786299,107,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,107,0,0
+1770898786586,92,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,92,0,0
+1770898788961,104,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-15,text,true,,2186,2278,3,3,https://booking.ballnbounce.com/dashboard,104,0,0
+1770898789144,99,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,99,0,0
+1770898789407,103,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-13,text,true,,2186,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,103,0,0
+1770898790928,280,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-16,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,280,0,187
+1770898791209,687,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-16,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,684,0,267
+1770898792068,107,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,107,0,0
+1770898792248,111,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,111,0,0
+1770898792512,99,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-13,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,99,0,0
+1770898794907,111,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-16,text,true,,2186,2278,3,3,https://booking.ballnbounce.com/dashboard,111,0,0
+1770898795190,107,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,107,0,0
+1770898795361,118,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,117,0,0
+1770898796924,298,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,298,0,190
+1770898797223,747,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-17,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,747,0,304
+1770898798021,102,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-16,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,102,0,0
+1770898798298,99,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,99,0,0
+1770898798480,98,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,98,0,0
+1770898800971,108,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,108,0,0
+1770898801132,134,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-16,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,134,0,0
+1770898801409,101,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,101,0,0
+1770898802922,300,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-18,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,300,0,211
+1770898803223,756,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-18,text,true,,3135,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,756,0,306
+1770898804082,112,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,112,0,0
+1770898804267,116,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-16,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,116,0,0
+1770898804512,111,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,111,0,0
+1770898806981,100,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-18,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770898807198,126,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-17,text,true,,2186,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,126,0,0
+1770898807394,152,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-16,text,true,,2186,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,152,0,0
+1770898808926,292,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,292,0,206
+1770898810095,96,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-18,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,96,0,0
+1770898809219,1117,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-19,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1116,0,562
+1770898810326,99,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-17,text,true,,2186,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,99,0,0
+1770898810547,141,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-16,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,140,0,0
+1770898813194,107,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-18,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,106,0,0
+1770898813342,99,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,99,0,0
+1770898813440,91,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,91,0,0
+1770898814924,385,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,385,0,277
+1770898815310,734,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-20,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,734,0,292
+1770898816303,109,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-18,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,109,0,0
+1770898816450,123,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-19,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,123,0,0
+1770898816537,104,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,104,0,0
+1770898819055,114,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,114,0,0
+1770898819413,100,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-18,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,100,0,0
+1770898819585,105,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,105,0,0
+1770898822170,109,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2301,3,3,https://booking.ballnbounce.com/dashboard/memberships-management,109,0,0
+1770898822519,100,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-18,text,true,,2188,2287,3,3,https://booking.ballnbounce.com/dashboard/activity,100,0,0
+1770898822707,115,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,2288,2,2,https://booking.ballnbounce.com/dashboard/employees,115,0,0
+1770898825281,126,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2292,2,2,https://booking.ballnbounce.com/dashboard/sales-reports,126,0,0
+1770898825827,101,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-19,text,true,,2186,2289,2,2,https://booking.ballnbounce.com/dashboard/attendance,101,0,0
+1770898828410,105,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2288,2,2,https://booking.ballnbounce.com/dashboard/employees,105,0,0
+1770898828930,100,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-19,text,true,,2187,2287,2,2,https://booking.ballnbounce.com/dashboard/activity,100,0,0
+1770898831518,126,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2289,1,1,https://booking.ballnbounce.com/dashboard/attendance,126,0,0
+1770898834650,111,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2287,1,1,https://booking.ballnbounce.com/dashboard/activity,111,0,0
+1770900308397,611,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,140,1,1,https://booking.ballnbounce.com/employee-login,610,0,499
+1770900309009,1412,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-1,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1411,0,481
+1770900313422,111,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-1,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,111,0,0
+1770900314392,326,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-2,text,true,,2187,140,2,2,https://booking.ballnbounce.com/employee-login,326,0,198
+1770900314719,771,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-2,text,true,,3137,768,2,2,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,771,0,323
+1770900316535,109,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,2301,2,2,https://booking.ballnbounce.com/dashboard/memberships-management,109,0,0
+1770900318491,124,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-2,text,true,,2186,2278,2,2,https://booking.ballnbounce.com/dashboard,124,0,0
+1770900319645,113,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-1,text,true,,2189,2292,2,2,https://booking.ballnbounce.com/dashboard/sales-reports,113,0,0
+1770900320392,280,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-3,text,true,,2188,140,3,3,https://booking.ballnbounce.com/employee-login,280,0,180
+1770900320673,717,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-3,text,true,,3137,768,3,3,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,717,0,282
+1770900321617,101,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-2,text,true,,2189,2301,3,3,https://booking.ballnbounce.com/dashboard/memberships-management,101,0,0
+1770900322768,103,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,103,0,0
+1770900324406,118,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-3,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,118,0,0
+1770900324735,107,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-2,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,107,0,0
+1770900325878,102,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,102,0,0
+1770900326406,273,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,273,0,184
+1770900326681,745,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-4,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,744,0,297
+1770900327533,115,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-3,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,115,0,0
+1770900327845,104,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-2,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,104,0,0
+1770900328986,104,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-1,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,104,0,0
+1770900330439,123,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-4,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,123,0,0
+1770900330656,102,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-3,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,102,0,0
+1770900330953,105,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-2,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,105,0,0
+1770900332410,278,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-5,text,true,,2186,140,4,4,https://booking.ballnbounce.com/employee-login,278,0,191
+1770900332688,696,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-5,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,695,0,260
+1770900333572,107,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-4,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,107,0,0
+1770900333759,131,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-3,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,131,0,0
+1770900334059,92,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-2,text,true,,2186,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,92,0,0
+1770900336395,165,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,165,0,0
+1770900336684,99,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-4,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,99,0,0
+1770900336895,110,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-3,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,110,0,0
+1770900338394,324,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-6,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,324,0,174
+1770900338719,730,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-6,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,729,0,289
+1770900339565,108,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,108,0,0
+1770900339793,105,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,105,0,0
+1770900340007,112,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-3,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,112,0,0
+1770900342452,111,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-6,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,111,0,0
+1770900342675,118,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-5,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,118,0,0
+1770900342900,115,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,114,0,0
+1770900344395,282,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-7,text,true,,2187,140,4,4,https://booking.ballnbounce.com/employee-login,282,0,192
+1770900344678,742,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-7,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,742,0,295
+1770900345568,101,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-6,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,101,0,0
+1770900345795,109,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,109,0,0
+1770900346019,106,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-4,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,106,0,0
+1770900348434,114,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-7,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,114,0,0
+1770900348671,97,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-6,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,97,0,0
+1770900348921,113,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,113,0,0
+1770900350406,342,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,342,0,175
+1770900350749,714,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-8,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,714,0,277
+1770900351554,107,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-7,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,107,0,0
+1770900351777,107,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-6,text,true,,2186,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,106,0,0
+1770900352039,145,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-5,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,145,0,0
+1770900354475,101,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-8,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,101,0,0
+1770900354671,108,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-7,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,108,0,0
+1770900354888,96,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-6,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,96,0,0
+1770900356403,310,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-9,text,true,,2189,140,4,4,https://booking.ballnbounce.com/employee-login,310,0,215
+1770900357583,121,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,121,0,0
+1770900356715,1105,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-9,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1105,0,308
+1770900357781,118,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-7,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,118,0,0
+1770900358000,99,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-6,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,99,0,0
+1770900360720,99,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,99,0,0
+1770900360910,109,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-7,text,true,,2186,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,109,0,0
+1770900360829,404,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-9,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,404,0,0
+1770900362410,284,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,284,0,184
+1770900362695,757,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-10,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,757,0,310
+1770900363830,109,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-8,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,109,0,0
+1770900364032,107,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-7,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,107,0,0
+1770900364240,108,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-9,text,true,,2188,2301,3,3,https://booking.ballnbounce.com/dashboard/memberships-management,108,0,0
+1770900366454,90,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,90,0,0
+1770900366952,132,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-8,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,132,0,0
+1770900367372,106,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-9,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,106,0,0
+1770900368408,271,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-11,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,271,0,181
+1770900369561,170,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,170,0,0
+1770900368680,1124,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-11,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1124,0,554
+1770900370108,239,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-8,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,239,0,0
+1770900370485,134,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-9,text,true,,2189,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,134,0,0
+1770900372735,104,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-10,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,103,0,0
+1770900372811,107,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-11,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,107,0,0
+1770900373621,107,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-9,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,107,0,0
+1770900374407,292,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,292,0,188
+1770900374701,737,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-12,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,737,0,302
+1770900375842,90,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-10,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,90,0,0
+1770900375920,87,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-11,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,87,0,0
+1770900376733,104,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-9,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,104,0,0
+1770900378453,128,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-12,text,true,,2186,2278,3,3,https://booking.ballnbounce.com/dashboard,128,0,0
+1770900378937,101,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-10,text,true,,2186,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,101,0,0
+1770900379017,346,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-11,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,346,0,0
+1770900380408,266,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,266,0,173
+1770900380674,716,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-13,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,716,0,291
+1770900381590,112,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-12,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,112,0,0
+1770900382048,94,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-10,text,true,,2186,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,94,0,0
+1770900382372,137,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-11,text,true,,2187,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,137,0,0
+1770900384405,103,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,103,0,0
+1770900384717,108,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-12,text,true,,2186,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,108,0,0
+1770900385521,111,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-11,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,111,0,0
+1770900386409,269,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,269,0,181
+1770900386680,728,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-14,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,727,0,289
+1770900387518,125,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-13,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,124,0,0
+1770900387829,109,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,108,0,0
+1770900388635,103,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-11,text,true,,2186,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,103,0,0
+1770900390422,105,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,105,0,0
+1770900390657,102,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-13,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,102,0,0
+1770900390951,108,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-12,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,107,0,0
+1770900392407,267,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,267,0,178
+1770900392675,758,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-15,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,758,0,290
+1770900393531,102,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-14,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,102,0,0
+1770900393779,132,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,132,0,0
+1770900394063,100,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-12,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,100,0,0
+1770900396437,100,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-15,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770900396640,108,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,108,0,0
+1770900396936,107,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,106,0,0
+1770900398393,285,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-16,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,285,0,175
+1770900398678,754,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-16,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,754,0,291
+1770900399539,108,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-15,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,108,0,0
+1770900399764,98,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,98,0,0
+1770900400049,113,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-13,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,113,0,0
+1770900402438,99,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-16,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,99,0,0
+1770900402652,101,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,101,0,0
+1770900402877,100,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,100,0,0
+1770900404408,285,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,285,0,188
+1770900404694,724,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-17,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,724,0,305
+1770900405540,107,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-16,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,107,0,0
+1770900405780,104,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-15,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,104,0,0
+1770900405998,101,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-14,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,101,0,0
+1770900408421,107,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,107,0,0
+1770900408651,97,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-16,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,97,0,0
+1770900408891,111,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,111,0,0
+1770900410407,315,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-18,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,315,0,198
+1770900410724,740,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-18,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,739,0,311
+1770900411531,110,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,110,0,0
+1770900411751,106,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-16,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,106,0,0
+1770900412014,107,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-15,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,107,0,0
+1770900414470,119,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-18,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,119,0,0
+1770900414654,128,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-17,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,128,0,0
+1770900414873,118,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-16,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,118,0,0
+1770900416408,333,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,333,0,187
+1770900417606,103,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-18,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,103,0,0
+1770900417796,101,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-17,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,101,0,0
+1770900416742,1202,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-19,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1202,0,647
+1770900418015,134,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-16,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,134,0,0
+1770900420720,108,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-18,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,108,0,0
+1770900420905,104,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-17,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,104,0,0
+1770900420968,114,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,114,0,0
+1770900422407,292,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,292,0,185
+1770900422701,730,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-20,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,729,0,293
+1770900423844,132,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-18,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,132,0,0
+1770900424030,110,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-17,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,110,0,0
+1770900424096,101,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,2301,3,3,https://booking.ballnbounce.com/dashboard/memberships-management,101,0,0
+1770900426436,101,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,101,0,0
+1770900426986,138,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-18,text,true,,2186,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,138,0,0
+1770900427201,102,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-19,text,true,,2186,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,102,0,0
+1770900428407,402,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-21,text,true,,2187,140,4,4,https://booking.ballnbounce.com/employee-login,402,0,312
+1770900428809,741,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-21,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,741,0,285
+1770900429538,102,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-20,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,102,0,0
+1770900430127,96,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-18,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,96,0,0
+1770900430312,86,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,86,0,0
+1770900432560,106,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-21,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,106,0,0
+1770900432642,96,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-20,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,96,0,0
+1770900433409,119,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-19,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,119,0,0
+1770900434393,267,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-22,text,true,,2189,140,4,4,https://booking.ballnbounce.com/employee-login,267,0,180
+1770900434661,697,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-22,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,697,0,270
+1770900435673,102,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-21,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,102,0,0
+1770900435754,111,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,111,0,0
+1770900436535,102,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-19,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,102,0,0
+1770900438359,133,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-22,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,133,0,0
+1770900438781,102,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-21,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,102,0,0
+1770900438873,99,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-20,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,99,0,0
+1770900440407,266,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-23,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,266,0,176
+1770900440674,720,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-23,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,719,0,273
+1770900441498,96,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-22,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,96,0,0
+1770900441892,119,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-21,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,119,0,0
+1770900441985,114,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-20,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,114,0,0
+1770900444419,166,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-23,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,166,0,0
+1770900444603,100,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-22,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,100,0,0
+1770900445028,111,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-21,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,111,0,0
+1770900446407,340,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-24,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,340,0,180
+1770900446747,740,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-24,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,740,0,302
+1770900447592,100,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-23,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,100,0,0
+1770900447716,96,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-22,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,96,0,0
+1770900448155,98,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-21,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,98,0,0
+1770900450514,103,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-24,text,true,,2186,2278,3,3,https://booking.ballnbounce.com/dashboard,103,0,0
+1770900450706,97,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-23,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,97,0,0
+1770900450842,110,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-22,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,110,0,0
+1770900452390,266,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-25,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,266,0,180
+1770900452657,715,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-25,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,714,0,300
+1770900453619,89,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-24,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,89,0,0
+1770900453810,106,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-23,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,106,0,0
+1770900453967,104,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-22,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,104,0,0
+1770900456375,96,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-25,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,96,0,0
+1770900456919,109,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-23,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,109,0,0
+1770900456720,403,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-24,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,403,0,0
+1770900458394,278,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-26,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,278,0,186
+1770900458673,776,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-26,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,776,0,353
+1770900459485,97,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-25,text,true,,2186,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,97,0,0
+1770900460045,99,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-23,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,99,0,0
+1770900460125,104,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-24,text,true,,2188,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,104,0,0
+1770900462452,114,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-26,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,114,0,0
+1770900462583,101,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-25,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,101,0,0
+1770900463230,107,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-24,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,107,0,0
+1770900464389,405,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-27,text,true,,2186,140,4,4,https://booking.ballnbounce.com/employee-login,405,0,183
+1770900464795,725,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-27,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,725,0,299
+1770900465567,104,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-26,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,104,0,0
+1770900465696,114,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-25,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,114,0,0
+1770900466345,101,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-24,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,101,0,0
+1770900468525,97,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-27,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,97,0,0
+1770900468673,117,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-26,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,117,0,0
+1770900468816,107,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-25,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,107,0,0
+1770900470391,252,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-28,text,true,,2189,140,4,4,https://booking.ballnbounce.com/employee-login,252,0,160
+1770900470644,711,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-28,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,711,0,269
+1770900471625,112,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-27,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,111,0,0
+1770900472407,95,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-26,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,95,0,0
+1770900472414,106,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-25,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,106,0,0
+1770900474356,90,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-28,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,90,0,0
+1770900474737,105,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-27,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,105,0,0
+1770900475505,98,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-26,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,98,0,0
+1770900476391,278,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-29,text,true,,2189,140,4,4,https://booking.ballnbounce.com/employee-login,278,0,186
+1770900476670,733,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-29,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,732,0,304
+1770900477447,390,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-28,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,390,0,0
+1770900477847,104,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-27,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,104,0,0
+1770900478607,106,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-26,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,106,0,0
+1770900480404,100,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-29,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770900480850,87,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-28,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,87,0,0
+1770900480953,107,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-27,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,107,0,0
+1770900482391,281,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-30,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,281,0,178
+1770900482673,753,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-30,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,753,0,316
+1770900483510,104,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-29,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,104,0,0
+1770900483944,103,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-28,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,103,0,0
+1770900484061,115,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-27,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,115,0,0
+1770900486428,90,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-30,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,90,0,0
+1770900486616,100,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-29,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,100,0,0
+1770900487053,106,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-28,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,106,0,0
+1770900488391,268,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-31,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,268,0,174
+1770900488661,723,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-31,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,723,0,286
+1770900489540,110,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-30,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,110,0,0
+1770900489719,133,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-29,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,133,0,0
+1770900490166,97,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-28,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,97,0,0
+1770900492388,103,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-31,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,102,0,0
+1770900492652,108,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-30,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,108,0,0
+1770900492862,112,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-29,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,112,0,0
+1770900494399,277,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-32,text,true,,2186,140,4,4,https://booking.ballnbounce.com/employee-login,277,0,186
+1770900494678,845,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-32,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,842,0,401
+1770900495492,119,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-31,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,119,0,0
+1770900495762,102,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-30,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,102,0,0
+1770900495989,107,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-29,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,107,0,0
+1770900498533,100,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-32,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770900498613,100,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-31,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,100,0,0
+1770900498871,112,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-30,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,112,0,0
+1770900500398,269,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-33,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,269,0,182
+1770900500667,729,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-33,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,728,0,291
+1770900501635,100,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-32,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,100,0,0
+1770900501715,104,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-31,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,104,0,0
+1770900501986,127,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-30,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,127,0,0
+1770900504409,105,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-33,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,105,0,0
+1770900504741,103,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-32,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,103,0,0
+1770900504820,99,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-31,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,99,0,0
+1770900506389,273,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-34,text,true,,2186,140,4,4,https://booking.ballnbounce.com/employee-login,273,0,179
+1770900507530,104,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-33,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,104,0,0
+1770900506663,1093,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-34,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1093,0,526
+1770900507856,97,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-32,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,97,0,0
+1770900507921,90,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-31,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,90,0,0
+1770900510646,105,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-33,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,105,0,0
+1770900510758,108,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-34,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,108,0,0
+1770900510968,106,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-32,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,106,0,0
+1770900512391,266,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-35,text,true,,2187,140,4,4,https://booking.ballnbounce.com/employee-login,266,0,174
+1770900512658,741,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-35,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,741,0,278
+1770900513759,102,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-33,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,102,0,0
+1770900513873,101,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-34,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,101,0,0
+1770900514084,98,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-32,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,98,0,0
+1770900516401,100,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-35,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770900516867,127,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-33,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,127,0,0
+1770900516980,101,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-34,text,true,,2186,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,101,0,0
+1770900518390,263,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-36,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,263,0,175
+1770900518654,717,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-36,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,717,0,292
+1770900519511,117,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-35,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,117,0,0
+1770900519995,110,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-33,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,110,0,0
+1770900520108,115,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-34,text,true,,2187,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,115,0,0
+1770900522372,104,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-36,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,104,0,0
+1770900522639,107,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-35,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,107,0,0
+1770900523227,131,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-34,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,131,0,0
+1770900524391,323,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-37,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,323,0,197
+1770900524716,841,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-37,text,true,,3138,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,841,0,290
+1770900525478,107,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-36,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,107,0,0
+1770900525747,114,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-35,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,114,0,0
+1770900526366,99,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-34,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,99,0,0
+1770900528560,135,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-37,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,135,0,0
+1770900528594,107,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-36,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,107,0,0
+1770900528872,114,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-35,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,114,0,0
+1770900530390,275,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-38,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,274,0,177
+1770900530666,760,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-38,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,760,0,294
+1770900531703,107,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-36,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,107,0,0
+1770900531697,108,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-37,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,108,0,0
+1770900531995,101,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-35,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,101,0,0
+1770900534434,111,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-38,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,111,0,0
+1770900534817,108,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-37,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,108,0,0
+1770900534817,112,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-36,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,112,0,0
+1770900536400,284,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-39,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,284,0,175
+1770900536685,735,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-39,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,735,0,297
+1770900537558,130,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-38,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,130,0,0
+1770900537930,130,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-36,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,130,0,0
+1770900537926,151,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-37,text,true,,2188,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,151,0,0
+1770900540423,114,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-39,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,114,0,0
+1770900540691,104,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-38,text,true,,2189,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,104,0,0
+1770900541078,91,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-37,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,91,0,0
+1770900542394,286,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-40,text,true,,2187,140,4,4,https://booking.ballnbounce.com/employee-login,286,0,189
+1770900542682,775,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-40,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,770,0,317
+1770900543539,109,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-39,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,109,0,0
+1770900543804,117,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-38,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,117,0,0
+1770900544171,109,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-37,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,109,0,0
+1770900546459,107,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-40,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,107,0,0
+1770900546649,180,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-39,text,true,,2186,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,180,0,0
+1770900546922,102,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-38,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,102,0,0
+1770900548389,276,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-41,text,true,,2187,140,4,4,https://booking.ballnbounce.com/employee-login,276,0,182
+1770900548666,724,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-41,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,724,0,288
+1770900549589,107,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-40,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,107,0,0
+1770900549838,107,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-39,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,107,0,0
+1770900550031,103,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-38,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,103,0,0
+1770900552405,100,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-41,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770900552701,104,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-40,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,104,0,0
+1770900552954,106,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-39,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,106,0,0
+1770900554392,280,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-42,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,280,0,180
+1770900554673,703,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-42,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,703,0,280
+1770900555516,102,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-41,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,102,0,0
+1770900555816,117,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-40,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,117,0,0
+1770900556063,125,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-39,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,125,0,0
+1770900558389,143,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-42,text,true,,2189,2278,3,3,https://booking.ballnbounce.com/dashboard,143,0,0
+1770900558624,123,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-41,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,123,0,0
+1770900558936,119,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-40,text,true,,2187,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,119,0,0
+1770900560393,341,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-43,text,true,,2186,140,4,4,https://booking.ballnbounce.com/employee-login,341,0,250
+1770900560735,728,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-43,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,728,0,301
+1770900561545,99,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-42,text,true,,2189,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,99,0,0
+1770900561754,110,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-41,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,110,0,0
+1770900562070,104,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-40,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,103,0,0
+1770900564467,182,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-43,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,182,0,0
+1770900564649,255,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-42,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,255,0,0
+1770900564867,107,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-41,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,107,0,0
+1770900566394,285,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-44,text,true,,2189,140,4,4,https://booking.ballnbounce.com/employee-login,285,0,182
+1770900566680,740,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-44,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,740,0,294
+1770900567660,107,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-43,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,107,0,0
+1770900567905,101,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-42,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,101,0,0
+1770900567975,110,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-41,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,110,0,0
+1770900570430,114,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-44,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,114,0,0
+1770900570782,102,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-43,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,102,0,0
+1770900571007,107,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-42,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,107,0,0
+1770900572390,289,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-45,text,true,,2189,140,4,4,https://booking.ballnbounce.com/employee-login,289,0,182
+1770900572680,731,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-45,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,730,0,295
+1770900573549,91,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-44,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,91,0,0
+1770900573886,108,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-43,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,108,0,0
+1770900574115,94,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-42,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,94,0,0
+1770900576412,103,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-45,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,103,0,0
+1770900576641,98,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-44,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,98,0,0
+1770900576996,98,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-43,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,98,0,0
+1770900578389,287,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-46,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,287,0,188
+1770900578676,714,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-46,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,714,0,290
+1770900579518,111,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-45,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,111,0,0
+1770900579740,105,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-44,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,105,0,0
+1770900580108,109,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-43,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,109,0,0
+1770900582401,104,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-46,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,104,0,0
+1770900582643,97,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-45,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,97,0,0
+1770900582848,108,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-44,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,108,0,0
+1770900584390,319,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-47,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,319,0,204
+1770900584710,714,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-47,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,714,0,259
+1770900585509,104,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-46,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,104,0,0
+1770900585744,100,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-45,text,true,,2188,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,100,0,0
+1770900585958,122,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-44,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,122,0,0
+1770900588426,100,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-47,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,100,0,0
+1770900588613,95,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-46,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,95,0,0
+1770900588857,117,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-45,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,117,0,0
+1770900590392,283,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-48,text,true,,2188,140,4,4,https://booking.ballnbounce.com/employee-login,283,0,189
+1770900590676,704,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-48,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,704,0,276
+1770900591536,104,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-47,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,104,0,0
+1770900591716,109,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-46,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,109,0,0
+1770900591979,97,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-45,text,true,,2189,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,97,0,0
+1770900594388,114,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-48,text,true,,2187,2278,3,3,https://booking.ballnbounce.com/dashboard,114,0,0
+1770900594642,142,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-47,text,true,,2187,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,142,0,0
+1770900594836,117,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-46,text,true,,2189,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,117,0,0
+1770900596390,295,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-49,text,true,,2186,140,4,4,https://booking.ballnbounce.com/employee-login,295,0,196
+1770900596686,746,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-49,text,true,,3136,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,746,0,305
+1770900597514,96,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-48,text,true,,2187,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,96,0,0
+1770900597785,103,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-47,text,true,,2189,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,103,0,0
+1770900597962,102,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-46,text,true,,2188,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,102,0,0
+1770900600440,110,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-49,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,110,0,0
+1770900600623,101,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-48,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,101,0,0
+1770900600890,109,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-47,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,109,0,0
+1770900602392,280,HTTP Request-Admin Login Page(GET),200,OK,Thread Group-Employee Flow 1-50,text,true,,2189,140,4,4,https://booking.ballnbounce.com/employee-login,280,0,176
+1770900602673,676,HTTP Request-Admin Login Page(POST),200,OK,Thread Group-Employee Flow 1-50,text,true,,3137,768,4,4,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,676,0,271
+1770900603559,95,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-49,text,true,,2188,2301,4,4,https://booking.ballnbounce.com/dashboard/memberships-management,95,0,0
+1770900603726,112,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-48,text,true,,2187,2288,4,4,https://booking.ballnbounce.com/dashboard/employees,111,0,0
+1770900604000,99,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-47,text,true,,2187,2287,4,4,https://booking.ballnbounce.com/dashboard/activity,99,0,0
+1770900606353,115,HTTP Request-Admin Dashboard,200,OK,Thread Group-Employee Flow 1-50,text,true,,2188,2278,3,3,https://booking.ballnbounce.com/dashboard,115,0,0
+1770900606656,99,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-49,text,true,,2188,2292,3,3,https://booking.ballnbounce.com/dashboard/sales-reports,99,0,0
+1770900606839,105,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-48,text,true,,2188,2289,3,3,https://booking.ballnbounce.com/dashboard/attendance,105,0,0
+1770900609475,99,HTTP Request-Member administration,200,OK,Thread Group-Employee Flow 1-50,text,true,,2189,2301,3,3,https://booking.ballnbounce.com/dashboard/memberships-management,99,0,0
+1770900609760,117,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-49,text,true,,2188,2288,3,3,https://booking.ballnbounce.com/dashboard/employees,117,0,0
+1770900609946,117,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-48,text,true,,2188,2287,3,3,https://booking.ballnbounce.com/dashboard/activity,117,0,0
+1770900612575,109,HTTP Request-Financial reporting,200,OK,Thread Group-Employee Flow 1-50,text,true,,2189,2292,2,2,https://booking.ballnbounce.com/dashboard/sales-reports,109,0,0
+1770900612883,113,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-49,text,true,,2188,2289,2,2,https://booking.ballnbounce.com/dashboard/attendance,113,0,0
+1770900615693,102,HTTP Request-Staff management,200,OK,Thread Group-Employee Flow 1-50,text,true,,2189,2288,2,2,https://booking.ballnbounce.com/dashboard/employees,102,0,0
+1770900615998,118,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-49,text,true,,2187,2287,2,2,https://booking.ballnbounce.com/dashboard/activity,118,0,0
+1770900618796,94,HTTP Request-Employee attendance,200,OK,Thread Group-Employee Flow 1-50,text,true,,2189,2289,1,1,https://booking.ballnbounce.com/dashboard/attendance,94,0,0
+1770900621892,102,HTTP Request-System activity logs,200,OK,Thread Group-Employee Flow 1-50,text,true,,2189,2287,1,1,https://booking.ballnbounce.com/dashboard/activity,102,0,0

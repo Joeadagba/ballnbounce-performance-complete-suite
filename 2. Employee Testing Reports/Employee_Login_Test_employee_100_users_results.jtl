@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1770769468675,775,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-1,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,775,0,575
+1770769469456,1223,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-1,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1221,0,501
+1770769470681,148,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-1,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,148,0,0
+1770769474648,352,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-2,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,352,0,244
+1770769475002,783,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-2,text,true,,3135,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,782,0,315
+1770769475785,135,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-2,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,135,0,0
+1770769480633,279,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-3,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,279,0,185
+1770769480913,691,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-3,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,690,0,299
+1770769481605,120,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-3,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,120,0,0
+1770769486638,305,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-4,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,305,0,199
+1770769486944,1026,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-4,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1026,0,322
+1770769487971,122,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-4,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,122,0,0
+1770769492639,357,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-5,text,true,,2188,140,1,1,https://booking.ballnbounce.com/employee-login,357,0,230
+1770769492997,1003,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-5,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1003,0,311
+1770769494001,101,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-5,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,101,0,0
+1770769498633,291,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-6,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,291,0,187
+1770769498924,717,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-6,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,716,0,291
+1770769499641,122,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-6,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,122,0,0
+1770769504634,279,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-7,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,278,0,179
+1770769504914,1024,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-7,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1023,0,302
+1770769505939,105,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-7,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,105,0,0
+1770769510634,298,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-8,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,298,0,194
+1770769510934,731,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-8,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,731,0,316
+1770769511665,111,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-8,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,111,0,0
+1770769516649,276,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-9,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,276,0,184
+1770769516926,705,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-9,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,695,0,290
+1770769517631,107,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-9,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,107,0,0
+1770769522647,369,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-10,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,368,0,235
+1770769523016,1005,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-10,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1004,0,318
+1770769524021,94,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-10,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,94,0,0
+1770769528632,331,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-11,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,331,0,211
+1770769528964,1032,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-11,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1032,0,346
+1770769529997,117,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-11,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,117,0,0
+1770769534650,309,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-12,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,309,0,191
+1770769534960,1013,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-12,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1013,0,317
+1770769535975,104,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-12,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,104,0,0
+1770769540654,262,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-13,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,262,0,164
+1770769540917,676,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-13,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,676,0,281
+1770769541594,121,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-13,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,121,0,0
+1770769546663,336,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-14,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,335,0,216
+1770769547003,1062,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-14,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1061,0,365
+1770769548066,144,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-14,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,144,0,0
+1770769552656,274,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-15,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,274,0,168
+1770769552931,708,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-15,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,708,0,311
+1770769553640,111,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-15,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,111,0,0
+1770769558640,269,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-16,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,269,0,175
+1770769558911,688,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-16,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,688,0,288
+1770769559600,127,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-16,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,127,0,0
+1770769564694,666,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-17,text,true,,2188,140,1,1,https://booking.ballnbounce.com/employee-login,666,0,549
+1770769565365,1150,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-17,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1150,0,418
+1770769566517,96,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-17,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,96,0,0
+1770769570653,341,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-18,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,341,0,217
+1770769570999,785,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-18,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,784,0,373
+1770769571913,233,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-18,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,233,0,0
+1770769576661,672,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-19,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,672,0,556
+1770769577354,1051,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-19,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1050,0,655
+1770769578406,114,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-19,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,114,0,0
+1770769582658,321,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-20,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,321,0,216
+1770769582983,721,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-20,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,720,0,327
+1770769583705,109,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-20,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,109,0,0
+1770769588662,344,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-21,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,344,0,194
+1770769589008,725,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-21,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,724,0,310
+1770769589733,101,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-21,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,101,0,0
+1770769594646,281,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-22,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,281,0,180
+1770769594929,669,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-22,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,669,0,276
+1770769595600,94,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-22,text,true,,2188,2278,1,1,https://booking.ballnbounce.com/dashboard,94,0,0
+1770769600635,281,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-23,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,281,0,191
+1770769600918,699,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-23,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,698,0,288
+1770769601618,100,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-23,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,100,0,0
+1770769606639,283,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-24,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,283,0,179
+1770769606923,683,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-24,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,680,0,293
+1770769607606,100,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-24,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,99,0,0
+1770769612643,276,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-25,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,276,0,189
+1770769612921,700,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-25,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,699,0,301
+1770769613622,106,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-25,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,106,0,0
+1770769618644,290,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-26,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,274,0,183
+1770769618935,692,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-26,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,692,0,300
+1770769619628,148,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-26,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,148,0,0
+1770769624648,297,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-27,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,297,0,199
+1770769624947,715,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-27,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,715,0,285
+1770769625664,104,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-27,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,104,0,0
+1770769630647,297,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-28,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,296,0,188
+1770769630945,725,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-28,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,724,0,322
+1770769631671,103,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-28,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,103,0,0
+1770769636642,285,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-29,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,285,0,185
+1770769636929,694,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-29,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,694,0,302
+1770769637624,111,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-29,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,111,0,0
+1770769642642,321,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-30,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,321,0,186
+1770769642964,864,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-30,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,864,0,303
+1770769643829,131,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-30,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,131,0,0
+1770769648632,273,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-31,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,273,0,183
+1770769648906,681,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-31,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,672,0,269
+1770769649587,96,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-31,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,96,0,0
+1770769654636,287,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-32,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,287,0,181
+1770769654924,680,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-32,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,678,0,288
+1770769655605,91,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-32,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,91,0,0
+1770769660653,280,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-33,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,280,0,183
+1770769660934,677,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-33,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,676,0,272
+1770769661611,110,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-33,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,109,0,0
+1770769666641,288,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-34,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,288,0,178
+1770769666930,724,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-34,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,723,0,316
+1770769667654,101,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-34,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,101,0,0
+1770769672639,303,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-35,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,303,0,192
+1770769672943,708,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-35,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,708,0,291
+1770769673652,100,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-35,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,100,0,0
+1770769678635,304,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-36,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,304,0,186
+1770769678940,680,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-36,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,680,0,285
+1770769679621,121,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-36,text,true,,2188,2278,1,1,https://booking.ballnbounce.com/dashboard,121,0,0
+1770769684636,291,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-37,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,291,0,186
+1770769684927,740,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-37,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,738,0,327
+1770769685667,107,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-37,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,107,0,0
+1770769690631,290,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-38,text,true,,2188,140,1,1,https://booking.ballnbounce.com/employee-login,290,0,185
+1770769690922,743,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-38,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,743,0,318
+1770769691665,111,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-38,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,111,0,0
+1770769696635,324,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-39,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,324,0,184
+1770769696960,683,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-39,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,682,0,292
+1770769697643,103,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-39,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,103,0,0
+1770769702639,326,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-40,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,326,0,226
+1770769702967,708,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-40,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,702,0,307
+1770769703676,121,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-40,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,121,0,0
+1770769708646,290,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-41,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,290,0,181
+1770769708940,724,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-41,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,724,0,321
+1770769709665,110,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-41,text,true,,2188,2278,1,1,https://booking.ballnbounce.com/dashboard,110,0,0
+1770769714638,302,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-42,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,301,0,203
+1770769714941,777,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-42,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,776,0,365
+1770769715718,114,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-42,text,true,,2188,2278,1,1,https://booking.ballnbounce.com/dashboard,114,0,0
+1770769720645,280,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-43,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,280,0,175
+1770769720927,681,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-43,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,681,0,282
+1770769721609,102,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-43,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,101,0,0
+1770769726638,328,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-44,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,328,0,239
+1770769726968,716,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-44,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,715,0,310
+1770769727684,104,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-44,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,104,0,0
+1770769732636,264,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-45,text,true,,2188,140,1,1,https://booking.ballnbounce.com/employee-login,264,0,180
+1770769732902,719,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-45,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,718,0,314
+1770769733621,116,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-45,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,115,0,0
+1770769738633,282,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-46,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,282,0,185
+1770769738916,674,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-46,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,673,0,282
+1770769739590,104,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-46,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,104,0,0
+1770769744632,307,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-47,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,306,0,189
+1770769744940,1006,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-47,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1006,0,311
+1770769745947,108,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-47,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,108,0,0
+1770769750646,361,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-48,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,361,0,255
+1770769751008,747,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-48,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,742,0,330
+1770769751756,110,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-48,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,110,0,0
+1770769756633,275,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-49,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,275,0,171
+1770769756910,709,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-49,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,709,0,315
+1770769757620,98,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-49,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,98,0,0
+1770769762634,311,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-50,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,311,0,175
+1770769762946,712,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-50,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,712,0,318
+1770769763660,124,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-50,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,124,0,0
+1770769768645,508,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-51,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,508,0,263
+1770769769154,762,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-51,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,761,0,344
+1770769769918,167,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-51,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,167,0,0
+1770769774630,299,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-52,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,299,0,195
+1770769774931,687,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-52,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,687,0,293
+1770769775620,121,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-52,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,121,0,0
+1770769780635,338,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-53,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,338,0,223
+1770769780976,719,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-53,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,719,0,305
+1770769781696,99,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-53,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,99,0,0
+1770769786634,326,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-54,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,326,0,191
+1770769786961,729,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-54,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,729,0,310
+1770769787690,113,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-54,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,113,0,0
+1770769792632,293,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-55,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,293,0,175
+1770769792926,664,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-55,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,664,0,260
+1770769793591,126,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-55,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,126,0,0
+1770769798631,292,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-56,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,292,0,183
+1770769798924,1119,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-56,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1119,0,323
+1770769800043,131,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-56,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,131,0,0
+1770769804641,278,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-57,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,278,0,184
+1770769804920,686,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-57,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,686,0,274
+1770769805606,107,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-57,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,107,0,0
+1770769810642,282,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-58,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,282,0,186
+1770769810925,704,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-58,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,703,0,276
+1770769811630,121,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-58,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,121,0,0
+1770769816633,303,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-59,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,303,0,182
+1770769816937,711,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-59,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,711,0,301
+1770769817648,104,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-59,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,104,0,0
+1770769822634,283,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-60,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,283,0,189
+1770769822917,925,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-60,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,910,0,277
+1770769823842,147,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-60,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,147,0,0
+1770769828632,335,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-61,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,335,0,225
+1770769828968,701,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-61,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,701,0,270
+1770769829670,102,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-61,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,102,0,0
+1770769834634,290,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-62,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,290,0,188
+1770769834925,691,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-62,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,691,0,278
+1770769835617,106,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-62,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,106,0,0
+1770769840633,288,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-63,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,288,0,199
+1770769840922,687,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-63,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,687,0,274
+1770769841609,121,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-63,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,121,0,0
+1770769846634,297,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-64,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,297,0,200
+1770769846933,746,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-64,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,745,0,315
+1770769847680,119,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-64,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,118,0,0
+1770769852649,348,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-65,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,348,0,251
+1770769853001,1009,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-65,text,true,,3138,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1006,0,492
+1770769854012,114,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-65,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,114,0,0
+1770769858640,297,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-66,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,296,0,202
+1770769858941,815,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-66,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,814,0,402
+1770769859757,101,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-66,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,101,0,0
+1770769864635,350,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-67,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,349,0,228
+1770769864989,1014,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-67,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,1014,0,588
+1770769866005,114,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-67,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,114,0,0
+1770769870641,380,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-68,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,379,0,274
+1770769871025,750,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-68,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,749,0,332
+1770769871776,104,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-68,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,104,0,0
+1770769876645,347,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-69,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,347,0,227
+1770769876996,809,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-69,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,809,0,367
+1770769877807,110,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-69,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,110,0,0
+1770769882635,303,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-70,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,303,0,202
+1770769882941,786,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-70,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,786,0,348
+1770769883729,137,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-70,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,137,0,0
+1770769888641,449,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-71,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,449,0,280
+1770769889092,759,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-71,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,759,0,342
+1770769889852,134,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-71,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,134,0,0
+1770769894635,285,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-72,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,285,0,190
+1770769894922,756,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-72,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,755,0,306
+1770769895679,108,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-72,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,107,0,0
+1770769900633,305,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-73,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,305,0,217
+1770769900939,711,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-73,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,711,0,295
+1770769901652,108,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-73,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,108,0,0
+1770769906633,301,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-74,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,300,0,210
+1770769906936,738,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-74,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,737,0,331
+1770769907676,108,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-74,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,108,0,0
+1770769912634,479,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-75,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,478,0,334
+1770769913117,746,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-75,text,true,,3135,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,746,0,311
+1770769913866,103,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-75,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,103,0,0
+1770769918636,298,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-76,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,298,0,196
+1770769918938,690,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-76,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,690,0,297
+1770769919629,105,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-76,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,105,0,0
+1770769924637,290,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-77,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,290,0,193
+1770769924930,737,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-77,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,736,0,334
+1770769925668,101,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-77,text,true,,2188,2278,1,1,https://booking.ballnbounce.com/dashboard,100,0,0
+1770769930636,420,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-78,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,420,0,292
+1770769931057,706,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-78,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,706,0,300
+1770769931763,182,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-78,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,182,0,0
+1770769936637,283,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-79,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,283,0,179
+1770769936920,731,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-79,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,731,0,295
+1770769937651,101,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-79,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,101,0,0
+1770769942633,269,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-80,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,269,0,177
+1770769942903,695,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-80,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,694,0,276
+1770769943598,126,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-80,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,125,0,0
+1770769948634,289,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-81,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,289,0,179
+1770769948924,675,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-81,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,675,0,277
+1770769949600,91,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-81,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,91,0,0
+1770769954635,279,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-82,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,279,0,176
+1770769954915,720,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-82,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,720,0,310
+1770769955635,107,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-82,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,106,0,0
+1770769960648,275,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-83,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,275,0,174
+1770769960923,690,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-83,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,690,0,284
+1770769961612,129,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-83,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,129,0,0
+1770769966648,275,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-84,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,275,0,178
+1770769966924,700,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-84,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,700,0,294
+1770769967624,100,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-84,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,100,0,0
+1770769972638,297,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-85,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,297,0,190
+1770769972936,742,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-85,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,742,0,339
+1770769973678,98,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-85,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,98,0,0
+1770769978634,326,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-86,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,326,0,214
+1770769978960,707,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-86,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,707,0,299
+1770769979668,98,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-86,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,98,0,0
+1770769984637,305,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-87,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,305,0,205
+1770769984943,696,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-87,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,696,0,295
+1770769985639,98,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-87,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,98,0,0
+1770769990642,322,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-88,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,322,0,204
+1770769990967,791,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-88,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,782,0,370
+1770769991759,107,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-88,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,107,0,0
+1770769996641,394,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-89,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,394,0,288
+1770769997038,807,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-89,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,806,0,385
+1770769997847,109,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-89,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,109,0,0
+1770770002643,330,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-90,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,329,0,230
+1770770002977,818,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-90,text,true,,3135,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,818,0,371
+1770770003797,106,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-90,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,106,0,0
+1770770008650,299,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-91,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,299,0,200
+1770770008952,753,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-91,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,751,0,341
+1770770009707,116,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-91,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,115,0,0
+1770770014644,296,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-92,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,296,0,200
+1770770014943,774,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-92,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,773,0,354
+1770770015719,112,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-92,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,112,0,0
+1770770020641,313,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-93,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,313,0,211
+1770770020957,736,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-93,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,736,0,328
+1770770021694,124,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-93,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,124,0,0
+1770770026644,490,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-94,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,490,0,349
+1770770027137,872,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-94,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,872,0,459
+1770770028011,112,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-94,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,112,0,0
+1770770032646,295,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-95,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,294,0,187
+1770770032944,783,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-95,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,782,0,358
+1770770033729,128,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-95,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,128,0,0
+1770770038638,328,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-96,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,328,0,227
+1770770038970,739,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-96,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,739,0,335
+1770770039710,107,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-96,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,107,0,0
+1770770044636,308,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-97,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,308,0,203
+1770770044947,755,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-97,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,754,0,342
+1770770045703,112,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-97,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,112,0,0
+1770770050643,295,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-98,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,295,0,192
+1770770050941,789,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-98,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,788,0,363
+1770770051732,105,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-98,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,105,0,0
+1770770056640,298,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-99,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,298,0,210
+1770770056943,763,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-99,text,true,,3136,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,763,0,355
+1770770057707,106,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-99,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,106,0,0
+1770770062640,309,HTTP Request-Employee Login Page(GET),200,OK,Thread Group 1-100,text,true,,2189,140,1,1,https://booking.ballnbounce.com/employee-login,309,0,193
+1770770062952,831,HTTP Request-Employee Login Page(POST),200,OK,Thread Group 1-100,text,true,,3137,768,1,1,https://dcmqyvkadyxrnbalpuuq.supabase.co/auth/v1/token?grant_type=password,831,0,417
+1770770063784,118,HTTP Request-Employee Dashboard,200,OK,Thread Group 1-100,text,true,,2189,2278,1,1,https://booking.ballnbounce.com/dashboard,118,0,0
