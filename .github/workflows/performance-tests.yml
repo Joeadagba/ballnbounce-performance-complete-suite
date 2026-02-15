@@ -40,3 +40,14 @@ jobs:
         with:
           name: smoke-test-results
           path: smoke_results.jtl
+      - name: Debug - List files
+        run: |
+          pwd
+          echo "=== All directories ==="
+          ls -la
+          echo "=== Looking for Customer Tests ==="
+          ls -la "1. Customer Tests/" || echo "Folder not found"
+          echo "=== Looking for 50_Users_Baseline ==="
+          ls -la "1. Customer Tests/50_Users_Baseline/" || echo "Subfolder not found"
+          echo "=== Looking for .jmx files ==="
+          find . -name "*.jmx" | head -20
